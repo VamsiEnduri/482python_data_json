@@ -1,0 +1,19 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "Sname": "chakri",
+      "Saddress": "kurnool"
+    },
+    {
+      "id": 2,
+      "Sname": "saranya",
+      "Saddress": "Vizag"
+    },
+    {
+      "id": 3,
+      "Sname": "vamsi",
+      "Saddress": "ongole"
+    }
+  ]
+}
